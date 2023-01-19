@@ -17,7 +17,7 @@
 ### A little about myself
 
 - 📚 I'm a student of System of Information in UFSM
-- 🔭 I’m currently working on @meliuz
+- 🔭 I’m Open To Work
 - 🌱 I’m currently learning Software Architecture
 - 💬 Contact me by: matheusvmallmann@gmail.com
 - ⚽ My hobbies are Mountain Bike, play games and play guitar
